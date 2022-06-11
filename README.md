@@ -1,6 +1,6 @@
 # Scanning data with the camera - iOS 16
 
-See `ViewController` for all of the code
+See `ScanDataCamera/ViewController` for all of the code
 
 ## Resources
 
