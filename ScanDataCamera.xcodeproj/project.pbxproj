@@ -290,6 +290,7 @@
 				DEVELOPMENT_TEAM = 4C5RY8DB74;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ScanDataCamera/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Access to scan codes.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,6 +319,7 @@
 				DEVELOPMENT_TEAM = 4C5RY8DB74;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ScanDataCamera/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Access to scan codes.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
