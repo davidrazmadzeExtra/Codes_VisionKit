@@ -5,7 +5,9 @@
 //  Created by David Razmadze on 6/11/22.
 //
 
+
 import UIKit
+import VisionKit
 
 class ViewController: UIViewController {
 
@@ -17,6 +19,8 @@ class ViewController: UIViewController {
   
   @IBAction func scanPressed(_ sender: Any) {
     print("scanning")
+    
+    print(DataScannerViewController.isSupported)
   }
   
 
