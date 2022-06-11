@@ -1,5 +1,9 @@
 # Scanning data with the camera - iOS 16
 
+See `ViewController` for all of the code
+
+## Resources
+
 Documentation: https://developer.apple.com/documentation/visionkit/scanning_data_with_the_camera
 
 WWDC 22' Video: https://developer.apple.com/videos/play/wwdc2022/10025
